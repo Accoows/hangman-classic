@@ -6,8 +6,8 @@ Ce projet implémente le célèbre jeu du pendu ("Hangman") en GoLang. Le but du
 
 ## Fonctionnalités
 
-> Le programme choisit un mot au hasard depuis un fichier words.txt.
-> Certaines lettres du mot sont révélées aléatoirement pour aider le joueur.
-> Le joueur dispose de 10 tentatives pour deviner le mot complet.
-> À chaque mauvaise proposition, une partie du dessin du pendu est affichée.
-> Le jeu s'exécute dans la console, avec des interactions via des entrées clavier.
+- Le programme choisit un mot au hasard depuis un fichier words.txt.
+- Certaines lettres du mot sont révélées aléatoirement pour aider le joueur.
+- Le joueur dispose de 10 tentatives pour deviner le mot complet.
+- À chaque mauvaise proposition, une partie du dessin du pendu est affichée.
+- Le jeu s'exécute dans la console, avec des interactions via des entrées clavier.
