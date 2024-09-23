@@ -1,1 +1,1 @@
-#Hangman Classic
+Hangman Classic
